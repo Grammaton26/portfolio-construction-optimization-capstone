@@ -59,14 +59,10 @@ Three portfolio construction and evaluation approaches are implemented:
 
 ## Dataset
 
-- **Source:** *S&P 500 stock data: Historical stock data for all current S&P 500 companies* (Cam Nugent, Kaggle)
-- **Coverage:** Five years of daily trading data (2013–2018)
-- **Granularity:** One observation per stock per trading day
-
----
-
-## Repository Structure
-
+- **Source:** *S&P 500 stock data: Historical stock data for all current S&P 500 companies* (Cam Nugent, Kaggle)  
+- **Link:** https://www.kaggle.com/datasets/camnugent/sandp500  
+- **Coverage:** Five years of daily trading data (2013–2018)  
+- **Granularity:** One observation per stock per trading day  
 
 ---
 
