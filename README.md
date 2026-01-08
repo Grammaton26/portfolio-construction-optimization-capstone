@@ -94,7 +94,7 @@ This repository supports the following Capstone deliverables:
 - **Final Research Paper** – Detailed methodology, results, and hypothesis evaluation
 - **Slide Presentation** – Executive-level summary of findings
 - **Oral Presentation** – Recorded presentation of slides and results
-- **Technical Documentation** – Code and reproducibility evidence (Module 8, Part 3)
+- **Technical Documentation** – Code and reproducibility evidence
 
 ---
 
